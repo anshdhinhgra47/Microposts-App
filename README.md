@@ -1,9 +1,6 @@
 # Microposts-App
 A basic CRUD application built with Webpack and Babel that allows a user to save their their posts.
 
-### Version
-1.1.0
-
 ## Usage
 
 ### Installation
